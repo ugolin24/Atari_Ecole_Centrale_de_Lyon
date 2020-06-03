@@ -1,4 +1,4 @@
-Pour tester le composant A2601
+test de la simulation sur vivado
 
 CREATION DU PROJET VIVADO :
 	- ajouter tous les fichiers VHDL de chaque dossier (A2601, A6500(cpu),  A6532(Riot), TIA) sauf
@@ -14,6 +14,5 @@ seront créés)
 LANCEMENT DE LA SIMULATION :
 	- une fois la simulation lancée et terminée, un fichier audio.txt et un fichier video.txt devraient
 être créés aux emplacements spécifiés.
-	- utiliser le fichier python "video.py" pour créer une image à partir du fichier "video.txt", une image
-devrait apparaître. L'image que nous obtenons nous à chaque lancement est l'image "test.bmp" qui montre
-une erreur.
+	- utiliser le fichier python "video.py" pour créer une image à partir du fichier "video.txt", une suite d'images
+du jeu devrait apparaître.
